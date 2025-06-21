@@ -3,7 +3,7 @@
 - 👀 I’m interested in **Cybersecurity, AI/ML, and Full Stack Development**
 - 🌱 I’m currently learning **Advanced DSA **
 - 💞️ I’m looking to collaborate on **backend systems,open-source projects related to cybersecurity, AI**
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/tejashwini-p-1a217322)** | **pujaritejashwini1@gmail.com**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/tejashwini-p-1a217322a/)** | **pujaritejashwini1@gmail.com**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: I enjoy blending creativity with code, and I love debugging more than coding itself sometimes!
 
