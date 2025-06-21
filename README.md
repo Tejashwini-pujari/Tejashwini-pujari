@@ -29,7 +29,7 @@
 - 🧑‍🎓 [Student Registration Platform (Django)](https://github.com/Tejashwini-pujari/student-registration)
 - 🧾 [QRify – QR Code Generator (Python)](https://github.com/Tejashwini-pujari/qrify)
 - 🌤️ [Weatherly – Weather App (API Project)](https://github.com/Tejashwini-pujari/weatherly)
-- [python csv file handling and database management]
+- [python csv file handling and database management](https://github.com/Tejashwini-pujari/python)
 
 ---
 
