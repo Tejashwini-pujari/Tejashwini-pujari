@@ -33,7 +33,7 @@
 
 ## 📌 Featured Projects  
 
-- 📊 [Sales Data Analysis (Pandas, Visualization)]
+- 📊 [Sales Data Analysis (Pandas, Visualization)](https://github.com/Tejashwini-pujari/sales-analysis-project) 
 - 📊 [Python CSV & Database Management](https://github.com/Tejashwini-pujari/Tejashwini-pujari-pep-pythonSQL-project)
 - 🎯 [Blood Detection using Fingerprint (AI/ML)](https://github.com/your-username/blood-detection-fingerprint)  
 - 🧑‍🎓 [Student Registration Platform (Django)](https://github.com/your-username/student-registration-platform)  
