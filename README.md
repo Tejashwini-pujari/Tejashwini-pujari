@@ -1,10 +1,11 @@
 # 👋 Hi, I’m Tejashwini Pujari  
 
 - 👀 I’m interested in **Data Engineering, Data Analysis, Machine Learning, Data Science, and Full Stack Development**  
-- 🌱 I’m currently learning **Advanced DSA & scalable data systems**  
+- 🌱 I’m currently learning **Data science and AI and DSA**  
 - 💞️ I’m looking to collaborate on **Data/ML projects, backend systems, and full-stack applications**  
 - 📫 How to reach me:  
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejashwini-p-1a217322)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejshwinipujari1)
+
    📧 **pujaritejashwini1@gmail.com**  
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun fact: I enjoy exploring how data can drive decisions and love turning ideas into real-world solutions 🚀  
