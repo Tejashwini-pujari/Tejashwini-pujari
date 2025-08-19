@@ -33,11 +33,13 @@
 
 ## 📌 Featured Projects  
 
-- 📊 [Sales Data Analysis (Pandas, Visualization)]([https://github.com/your-username/sales-data-analysis](https://github.com/Tejashwini-pujari/Tejashwini-pujari-pep-pythonSQL-project))  
+- 📊 [Sales Data Analysis (Pandas, Visualization)]
+- 🗂️ [Python CSV & Database Management](https://github.com/Tejashwini-pujari/python)
 - 🎯 [Blood Detection using Fingerprint (AI/ML)](https://github.com/your-username/blood-detection-fingerprint)  
 - 🧑‍🎓 [Student Registration Platform (Django)](https://github.com/your-username/student-registration-platform)  
 - 🧾 [QRify – QR Code Generator (Python)](https://github.com/your-username/qrify)  
-- 🗂️ [Python CSV & Database Management](https://github.com/your-username/csv-database-management)  
+  
+
 
 ---
 
