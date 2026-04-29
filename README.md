@@ -1,11 +1,12 @@
 👋 Hi, I’m Tejashwini Pujari
 
-💼 Aspiring Data Analyst with 1+ year of hands-on experience in data analysis, machine learning, and data visualization.
+💼 Aspiring Data Scientist with hands-on experience in machine learning, data analytics, and building end-to-end data solutions.
 
-📊 Skilled in Python, SQL, Pandas, NumPy, and Power BI for data cleaning, analysis, and insight generation.
+📊 Skilled in Python, SQL, Pandas, NumPy, and Power BI for data preprocessing, analysis, and visualization to generate actionable business insights.
 
-🚀 I have worked on real-world projects like Customer Churn Prediction, Sales Data Analysis, and Data Pipelines.
+🚀 Experienced in developing real-world projects such as Customer Churn Prediction, E-Commerce Sales Forecasting, Call Center Data Analytics Pipeline, and GenAI-based document processing solutions (OpenEV Hackathon).
 
 📫 Reach me at:
-📧 pujaritejashwini1@gmail.com  
+📧 pujaritejashwini1@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/tejshwinipujari1/
