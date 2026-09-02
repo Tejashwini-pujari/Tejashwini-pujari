@@ -70,17 +70,37 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Certifications & Achievements
+
+- 🎓 Data Science & AI Certification — EchoBrain
+- 🥇 Winner — Tech Utsav 2K24 Ideathon
+- 🏅 Finalist — Next Gen Minds National-Level Challenge, 2025
+- 🚀 Participant — Scalar AI Hackathon
+- 👩‍💻 Google Developer Student Clubs (GDSC) Member
+
+---
+
+### 🎯 Currently Focused On
+
+- 📜 Preparing for the **Databricks Certified Data Engineer Associate**
+- 🔄 Deepening real-time streaming with **Apache Kafka + Spark Structured Streaming**
+- 🧩 Exploring **LangChain / vector databases** (Pinecone, Qdrant) to extend my RAG projects
+
+---
+
+### 📈 Top Languages & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejashwini-pujari&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejashwini-pujari&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejashwini-pujari&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejashwini-pujari&layout=compact&hide_border=true&theme=default" height="165" />
 </p>
 
 ---
 
-<p align="center"><i>Open to full-time Data Engineering / AI-ML roles — let's connect!</i></p>
+### 🤝 Let's Connect
+
+I'm actively open to **full-time Data Engineering / AI-ML roles**. If you're working on data platforms, LLM/RAG systems, or scalable pipelines, I'd love to connect.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tejshwinipujari1/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://tejashwini-pujari.github.io/"><img src="https://img.shields.io/badge/View-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
